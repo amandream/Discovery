@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SCTabBarViewController.h
 //  SocialProject
 //
 //  Created by mac on 2017/8/19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SCTabBarViewController : UITabBarController
 
 @end
-
